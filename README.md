@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **UI/UX**
 
-- 💬 Ask me about **Data Science with python **
+- 💬 Ask me about **Data Science with python**
 
 - 📫 Email me via **valerianvee@gmail.com**
 
