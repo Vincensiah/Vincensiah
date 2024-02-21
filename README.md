@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **UI/UX**
 
-- 💬 Ask me about **Data Science with python**
+- 💬 Showing interest in **Data Science with Python**
 
 - 📫 Email me via **valerianvee@gmail.com**
 
-- ⚡ **Potterhead, Arianator, Astrophile and a Bookworm ~ Your typical intovert**
+- ⚡ **Potterhead, Bibliophile, Astrophile and a Bookworm ~ Your typical intovert**
 - 😂 Disclaimer: **I eat more than I code...and I code a lot**
 
 <h3 align="left">Connect with me:</h3>
