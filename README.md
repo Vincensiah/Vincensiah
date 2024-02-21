@@ -1,5 +1,5 @@
 
-<h3 align="center">A Frontend Developer | Data Scientist</h3>
+<h3 align="center">A Frontend Developer </h3>
 
 <p align="left"> <a href="https://twitter.com/valerianne9" target="blank"><img src="https://img.shields.io/twitter/follow/valerianne9?logo=twitter&style=for-the-badge" alt="valerianne9" /></a> </p>
 
