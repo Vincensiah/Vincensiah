@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/valerianne9" target="blank"><img src="https://img.shields.io/twitter/follow/valerianne9?logo=twitter&style=for-the-badge" alt="valerianne9" /></a> </p>
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Showing interest in **Data Science with Python**
 
